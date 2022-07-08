@@ -17,8 +17,9 @@ In order to run the provided solution the following software will need to be ins
 2. Install react and dependencies
    `npm install react` 
    `npm install react-dom` 
-   `npm install react-scripts
-4. Run the development `npm start`.
+   `npm install react-scripts`
+   
+4. Run the development `npm start`
 
 This will start the development server on localhost:3000
 
